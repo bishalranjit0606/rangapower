@@ -213,7 +213,7 @@ const ragaWorkouts = {
             "Day 4: Chest, Shoulders, Triceps": [
                 { name: "Peck Deck Fly", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.peckDeck },
                 { name: "Cable Fly (for Lower Chest)", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.cableFly },
-                { name: "Close Grip Dumbbell Press", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.closeGripPress },
+                { name: "Close Grip Barbell Press", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.closeGripPress },
                 { name: "Dips (Add weight if needed)", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.dips },
                 { name: "Cable Lateral Raise", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.cableLateral }
             ],
@@ -256,7 +256,7 @@ const ragaWorkouts = {
             "Day 4: Chest, Shoulders, Triceps": [
                 { name: "Peck Deck Fly", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.peckDeck },
                 { name: "Cable Fly (for Lower Chest)", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.cableFly },
-                { name: "Close Grip Dumbbell Press", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.closeGripPress },
+                { name: "Close Grip Barbell Press", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.closeGripPress },
                 { name: "Dips (Add weight if needed)", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.dips },
                 { name: "Cable Lateral Raise", sets: "3 sets", reps: "10 reps", video: VIDEO_DB.cableLateral }
             ],
