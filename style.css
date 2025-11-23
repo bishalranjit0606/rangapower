@@ -349,7 +349,7 @@ body {
 .view-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 20px;
   position: sticky;
   top: 0;
